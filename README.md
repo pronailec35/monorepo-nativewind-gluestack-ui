@@ -101,8 +101,9 @@ pnpm build
 ### Adding New Components
 
 1. Create your component in `packages/ui/src/components/`
-2. Run `pnpm build` to compile
-3. Import and use in your app: `import { YourComponent } from '@repo/ui'`
+2. Export it from the appropriate index file
+3. Run `pnpm build` to compile
+4. Import and use in your app: `import { YourComponent } from '@repo/ui'`
 
 ### Styling Guidelines
 
