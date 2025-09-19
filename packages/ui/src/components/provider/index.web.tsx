@@ -19,7 +19,7 @@ const createStyle = (styleTagId: string) => {
 export const useSafeLayoutEffect =
   typeof window !== 'undefined' ? useLayoutEffect : useEffect;
 
-export function GezitRNProvider({
+export function UIProvider({
   mode = 'light',
   ...props
 }: {

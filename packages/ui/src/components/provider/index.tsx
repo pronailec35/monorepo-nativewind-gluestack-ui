@@ -7,7 +7,7 @@ import { useColorScheme } from 'nativewind';
 
 export type ModeType = 'light' | 'dark' | 'system';
 
-export function GezitRNProvider({
+export function UIProvider({
   mode = 'light',
   ...props
 }: {

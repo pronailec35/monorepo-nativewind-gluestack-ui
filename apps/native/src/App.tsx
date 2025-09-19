@@ -3,17 +3,17 @@ import './global.css';
 
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
-import { GezitRNProvider } from '@repo/ui/provider';
+import { UIProvider } from '@repo/ui/provider';
 import { ActionsheetBasic } from './demo/actionsheet/actionsheet-basic';
 
 export default function App() {
   return (
-    <GezitRNProvider>
+    <UIProvider>
       <View style={styles.container}>
         <ActionsheetBasic />
         <StatusBar style="auto" />
       </View>
-    </GezitRNProvider>
+    </UIProvider>
   );
 }
 
