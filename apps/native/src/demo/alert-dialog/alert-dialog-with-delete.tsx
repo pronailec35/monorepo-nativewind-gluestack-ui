@@ -5,13 +5,13 @@ import {
   AlertDialogFooter,
   AlertDialogBody,
   AlertDialogBackdrop,
-} from '@gezit-native/ui/alert-dialog';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/alert-dialog';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
+import { Heading } from '@repo/ui/heading';
 import React from 'react';
-import { Box } from '@gezit-native/ui/box';
-import { Icon, TrashIcon } from '@gezit-native/ui/icon';
+import { Box } from '@repo/ui/box';
+import { Icon, TrashIcon } from '@repo/ui/icon';
 
 export function AlertDialogWithDelete() {
   const [showAlertDialog, setShowAlertDialog] = React.useState(false);

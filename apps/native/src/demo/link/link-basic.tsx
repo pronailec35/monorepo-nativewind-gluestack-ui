@@ -1,4 +1,4 @@
-import { Link, LinkText } from '@gezit-native/ui/link';
+import { Link, LinkText } from '@repo/ui/link';
 
 export function LinkBasic() {
   return (

@@ -1,5 +1,5 @@
-import { Alert, AlertIcon, AlertText } from '@gezit-native/ui/alert';
-import { InfoIcon } from '@gezit-native/ui/icon';
+import { Alert, AlertIcon, AlertText } from '@repo/ui/alert';
+import { InfoIcon } from '@repo/ui/icon';
 
 export function AlertBasic() {
   return (

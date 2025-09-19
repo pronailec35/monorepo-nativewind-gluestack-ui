@@ -2,7 +2,7 @@ import {
   Avatar,
   AvatarFallbackText,
   AvatarGroup,
-} from '@gezit-native/ui/avatar';
+} from '@repo/ui/avatar';
 
 export function AvatarGroupExample() {
   const avatars = [

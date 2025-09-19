@@ -1,20 +1,20 @@
 import React from 'react';
-import { ButtonGroup, ButtonText } from '@gezit-native/ui/button';
-import { Button } from '@gezit-native/ui/button';
+import { ButtonGroup, ButtonText } from '@repo/ui/button';
+import { Button } from '@repo/ui/button';
 import {
   Actionsheet,
   ActionsheetBackdrop,
   ActionsheetContent,
   ActionsheetDragIndicatorWrapper,
   ActionsheetDragIndicator,
-} from '@gezit-native/ui/actionsheet';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Box } from '@gezit-native/ui/box';
-import { Heading } from '@gezit-native/ui/heading';
-import { Icon, CloseIcon } from '@gezit-native/ui/icon';
-import { Pressable } from '@gezit-native/ui/pressable';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/actionsheet';
+import { HStack } from '@repo/ui/hstack';
+import { Box } from '@repo/ui/box';
+import { Heading } from '@repo/ui/heading';
+import { Icon, CloseIcon } from '@repo/ui/icon';
+import { Pressable } from '@repo/ui/pressable';
+import { VStack } from '@repo/ui/vstack';
+import { Text } from '@repo/ui/text';
 import { UploadCloud } from 'lucide-react-native';
 
 export function ActionsheetFileUpload() {

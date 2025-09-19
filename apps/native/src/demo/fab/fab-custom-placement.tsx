@@ -1,10 +1,10 @@
-import { Fab, FabIcon } from '@gezit-native/ui/fab';
-import { Box } from '@gezit-native/ui/box';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Image } from '@gezit-native/ui/image';
-import { Link } from '@gezit-native/ui/link';
+import { Fab, FabIcon } from '@repo/ui/fab';
+import { Box } from '@repo/ui/box';
+import { VStack } from '@repo/ui/vstack';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Image } from '@repo/ui/image';
+import { Link } from '@repo/ui/link';
 import { ShoppingCartIcon } from 'lucide-react-native';
 
 export function FabCustomPlacement() {

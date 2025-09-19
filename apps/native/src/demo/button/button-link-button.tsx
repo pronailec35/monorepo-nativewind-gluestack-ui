@@ -1,5 +1,5 @@
-import { Button, ButtonIcon, ButtonText } from '@gezit-native/ui/button';
-import { ArrowUpIcon } from '@gezit-native/ui/icon';
+import { Button, ButtonIcon, ButtonText } from '@repo/ui/button';
+import { ArrowUpIcon } from '@repo/ui/icon';
 
 export function ButtonLink() {
   return (

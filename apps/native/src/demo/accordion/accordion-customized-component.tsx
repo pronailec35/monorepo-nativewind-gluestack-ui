@@ -7,8 +7,8 @@ import {
   AccordionIcon,
   AccordionContent,
   AccordionContentText,
-} from '@gezit-native/ui/accordion';
-import { ChevronUpIcon, ChevronDownIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/accordion';
+import { ChevronUpIcon, ChevronDownIcon } from '@repo/ui/icon';
 
 export function AccordionCustomizedComponent() {
   return (

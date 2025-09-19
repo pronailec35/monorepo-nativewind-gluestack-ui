@@ -1,4 +1,4 @@
-import { Grid, GridItem } from '@gezit-native/ui/grid';
+import { Grid, GridItem } from '@repo/ui/grid';
 
 export function GridBasic() {
   return (

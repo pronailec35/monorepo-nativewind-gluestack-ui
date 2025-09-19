@@ -4,15 +4,15 @@ import {
   AlertDialogFooter,
   AlertDialogBody,
   AlertDialogBackdrop,
-} from '@gezit-native/ui/alert-dialog';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/alert-dialog';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
+import { Heading } from '@repo/ui/heading';
 import React from 'react';
-import { Box } from '@gezit-native/ui/box';
-import { Icon } from '@gezit-native/ui/icon';
+import { Box } from '@repo/ui/box';
+import { Icon } from '@repo/ui/icon';
 import { UploadCloud } from 'lucide-react-native';
-import { VStack } from '@gezit-native/ui/vstack';
+import { VStack } from '@repo/ui/vstack';
 
 export function AlertDialogWithIconsCta() {
   const [showAlertDialog, setShowAlertDialog] = React.useState(false);

@@ -1,14 +1,14 @@
-import { Badge, BadgeIcon, BadgeText } from '@gezit-native/ui/badge';
-import { VStack } from '@gezit-native/ui/vstack';
-import { HStack } from '@gezit-native/ui/hstack';
+import { Badge, BadgeIcon, BadgeText } from '@repo/ui/badge';
+import { VStack } from '@repo/ui/vstack';
+import { HStack } from '@repo/ui/hstack';
 import {
   Avatar,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/avatar';
+import { Heading } from '@repo/ui/heading';
 import { BadgeCheckIcon } from 'lucide-react-native';
-import { Text } from '@gezit-native/ui/text';
+import { Text } from '@repo/ui/text';
 
 export function BadgeWithAvatar() {
   return (

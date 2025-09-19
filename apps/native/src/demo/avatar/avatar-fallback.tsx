@@ -2,8 +2,8 @@ import {
   Avatar,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
-import { HStack } from '@gezit-native/ui/hstack';
+} from '@repo/ui/avatar';
+import { HStack } from '@repo/ui/hstack';
 
 export function AvatarFallback() {
   return (

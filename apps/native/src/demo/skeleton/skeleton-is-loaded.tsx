@@ -1,10 +1,10 @@
-import { Skeleton } from '@gezit-native/ui/skeleton';
-import { Box } from '@gezit-native/ui/box';
-import { Image } from '@gezit-native/ui/image';
-import { Text } from '@gezit-native/ui/text';
-import { HStack } from '@gezit-native/ui/hstack';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Avatar, AvatarFallbackText } from '@gezit-native/ui/avatar';
+import { Skeleton } from '@repo/ui/skeleton';
+import { Box } from '@repo/ui/box';
+import { Image } from '@repo/ui/image';
+import { Text } from '@repo/ui/text';
+import { HStack } from '@repo/ui/hstack';
+import { VStack } from '@repo/ui/vstack';
+import { Avatar, AvatarFallbackText } from '@repo/ui/avatar';
 
 export function SkeletonIsLoaded() {
   return (

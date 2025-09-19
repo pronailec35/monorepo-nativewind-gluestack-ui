@@ -4,27 +4,27 @@ import {
   DrawerContent,
   DrawerHeader,
   DrawerBody,
-} from '@gezit-native/ui/drawer';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { VStack } from '@gezit-native/ui/vstack';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Divider } from '@gezit-native/ui/divider';
+} from '@repo/ui/drawer';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { VStack } from '@repo/ui/vstack';
+import { HStack } from '@repo/ui/hstack';
+import { Divider } from '@repo/ui/divider';
 import {
   CheckboxGroup,
   Checkbox,
   CheckboxIndicator,
   CheckboxIcon,
   CheckboxLabel,
-} from '@gezit-native/ui/checkbox';
-import { CheckIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/checkbox';
+import { CheckIcon } from '@repo/ui/icon';
 import {
   Slider,
   SliderTrack,
   SliderFilledTrack,
   SliderThumb,
-} from '@gezit-native/ui/slider';
+} from '@repo/ui/slider';
 import React from 'react';
 
 export function DrawerFilter() {

@@ -3,14 +3,14 @@ import {
   MenuItem,
   MenuItemLabel,
   MenuSeparator,
-} from '@gezit-native/ui/menu';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+} from '@repo/ui/menu';
+import { Button, ButtonText } from '@repo/ui/button';
 import {
   Icon,
   SettingsIcon,
   HelpCircleIcon,
   MessageCircleIcon,
-} from '@gezit-native/ui/icon';
+} from '@repo/ui/icon';
 import React from 'react';
 
 function Trigger({ ...triggerProps }: typeof Button) {

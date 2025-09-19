@@ -1,14 +1,14 @@
-import { Fab, FabIcon } from '@gezit-native/ui/fab';
-import { Box } from '@gezit-native/ui/box';
-import { VStack } from '@gezit-native/ui/vstack';
+import { Fab, FabIcon } from '@repo/ui/fab';
+import { Box } from '@repo/ui/box';
+import { VStack } from '@repo/ui/vstack';
 import {
   Checkbox,
   CheckboxIndicator,
   CheckboxLabel,
   CheckboxIcon,
-} from '@gezit-native/ui/checkbox';
-import { Text } from '@gezit-native/ui/text';
-import { AddIcon, CheckIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/checkbox';
+import { Text } from '@repo/ui/text';
+import { AddIcon, CheckIcon } from '@repo/ui/icon';
 
 export function FabPlacement() {
   return (

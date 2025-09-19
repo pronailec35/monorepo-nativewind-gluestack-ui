@@ -6,8 +6,8 @@ import {
   ActionsheetDragIndicator,
   ActionsheetItem,
   ActionsheetItemText,
-} from '@gezit-native/ui/actionsheet';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+} from '@repo/ui/actionsheet';
+import { Button, ButtonText } from '@repo/ui/button';
 import React from 'react';
 
 export function ActionsheetWithoutSnappoints() {

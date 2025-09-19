@@ -7,11 +7,11 @@ import {
   ModalCloseButton,
   ModalBody,
   ModalFooter,
-} from '@gezit-native/ui/modal';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Icon, CloseIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/modal';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Icon, CloseIcon } from '@repo/ui/icon';
 
 export function ModalBasic() {
   const [showModal, setShowModal] = React.useState(false);

@@ -3,14 +3,14 @@ import {
   AlertDialogContent,
   AlertDialogBody,
   AlertDialogBackdrop,
-} from '@gezit-native/ui/alert-dialog';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/alert-dialog';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
+import { Heading } from '@repo/ui/heading';
 import React from 'react';
-import { Box } from '@gezit-native/ui/box';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Image } from '@gezit-native/ui/image';
+import { Box } from '@repo/ui/box';
+import { VStack } from '@repo/ui/vstack';
+import { Image } from '@repo/ui/image';
 
 export function AlertDialogWithImage() {
   const [showAlertDialog, setShowAlertDialog] = React.useState(false);

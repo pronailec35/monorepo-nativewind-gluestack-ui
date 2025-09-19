@@ -1,4 +1,4 @@
-import { Icon, createIcon } from '@gezit-native/ui/icon';
+import { Icon, createIcon } from '@repo/ui/icon';
 import { Path } from 'react-native-svg';
 
 export function IconCustom() {

@@ -1,6 +1,6 @@
-import { Skeleton, SkeletonText } from '@gezit-native/ui/skeleton';
-import { Box } from '@gezit-native/ui/box';
-import { HStack } from '@gezit-native/ui/hstack';
+import { Skeleton, SkeletonText } from '@repo/ui/skeleton';
+import { Box } from '@repo/ui/box';
+import { HStack } from '@repo/ui/hstack';
 
 export function SkeletonBasic() {
   return (

@@ -1,7 +1,7 @@
-import { Alert, AlertText } from '@gezit-native/ui/alert';
-import { ButtonText, Button } from '@gezit-native/ui/button';
-import { Icon, CloseIcon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
+import { Alert, AlertText } from '@repo/ui/alert';
+import { ButtonText, Button } from '@repo/ui/button';
+import { Icon, CloseIcon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
 
 export function AlertCloudSync() {
   return (

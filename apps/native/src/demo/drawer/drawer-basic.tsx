@@ -6,11 +6,11 @@ import {
   DrawerBody,
   DrawerFooter,
   DrawerCloseButton,
-} from '@gezit-native/ui/drawer';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Icon, CloseIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/drawer';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Icon, CloseIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function DrawerBasic() {

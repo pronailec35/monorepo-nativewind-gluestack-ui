@@ -1,5 +1,5 @@
-import { Badge, BadgeText, BadgeIcon } from '@gezit-native/ui/badge';
-import { GlobeIcon } from '@gezit-native/ui/icon';
+import { Badge, BadgeText, BadgeIcon } from '@repo/ui/badge';
+import { GlobeIcon } from '@repo/ui/icon';
 
 export function BadgeBasic() {
   return (

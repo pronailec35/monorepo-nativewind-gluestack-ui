@@ -1,8 +1,8 @@
-import { Portal } from '@gezit-native/ui/portal';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Text } from '@gezit-native/ui/text';
-import { Button, ButtonText, ButtonIcon } from '@gezit-native/ui/button';
-import { CloseIcon } from '@gezit-native/ui/icon';
+import { Portal } from '@repo/ui/portal';
+import { HStack } from '@repo/ui/hstack';
+import { Text } from '@repo/ui/text';
+import { Button, ButtonText, ButtonIcon } from '@repo/ui/button';
+import { CloseIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function PortalBasic() {

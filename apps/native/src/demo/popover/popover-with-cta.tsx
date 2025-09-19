@@ -1,27 +1,27 @@
-import { Pressable } from '@gezit-native/ui/pressable';
+import { Pressable } from '@repo/ui/pressable';
 import {
   Popover,
   PopoverBackdrop,
   PopoverContent,
   PopoverBody,
   PopoverFooter,
-} from '@gezit-native/ui/popover';
-import { Button, ButtonText, ButtonIcon } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { VStack } from '@gezit-native/ui/vstack';
+} from '@repo/ui/popover';
+import { Button, ButtonText, ButtonIcon } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { VStack } from '@repo/ui/vstack';
 import {
   Checkbox,
   CheckboxGroup,
   CheckboxIndicator,
   CheckboxLabel,
   CheckboxIcon,
-} from '@gezit-native/ui/checkbox';
+} from '@repo/ui/checkbox';
 import {
   CheckIcon,
   ArrowRightIcon,
   ChevronRightIcon,
-} from '@gezit-native/ui/icon';
+} from '@repo/ui/icon';
 import React from 'react';
 
 export function PopoverWithCta() {

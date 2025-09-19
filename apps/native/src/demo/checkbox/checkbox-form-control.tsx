@@ -3,12 +3,12 @@ import {
   CheckboxIndicator,
   CheckboxLabel,
   CheckboxIcon,
-} from '@gezit-native/ui/checkbox';
-import { FormControl } from '@gezit-native/ui/form-control';
-import { Heading } from '@gezit-native/ui/heading';
-import { CheckIcon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/checkbox';
+import { FormControl } from '@repo/ui/form-control';
+import { Heading } from '@repo/ui/heading';
+import { CheckIcon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
+import { Text } from '@repo/ui/text';
 
 export function CheckboxFormControl() {
   return (

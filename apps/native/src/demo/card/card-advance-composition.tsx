@@ -2,15 +2,15 @@ import {
   Avatar,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
-import { Box } from '@gezit-native/ui/box';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Card } from '@gezit-native/ui/card';
-import { Divider } from '@gezit-native/ui/divider';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Image } from '@gezit-native/ui/image';
-import { VStack } from '@gezit-native/ui/vstack';
+} from '@repo/ui/avatar';
+import { Box } from '@repo/ui/box';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Card } from '@repo/ui/card';
+import { Divider } from '@repo/ui/divider';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Image } from '@repo/ui/image';
+import { VStack } from '@repo/ui/vstack';
 
 export function CardAdvanceComposition() {
   return (

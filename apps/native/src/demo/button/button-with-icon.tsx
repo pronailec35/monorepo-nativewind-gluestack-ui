@@ -1,6 +1,6 @@
-import { Button, ButtonIcon, ButtonText } from '@gezit-native/ui/button';
-import { AddIcon, InfoIcon } from '@gezit-native/ui/icon';
-import { Box } from '@gezit-native/ui/box';
+import { Button, ButtonIcon, ButtonText } from '@repo/ui/button';
+import { AddIcon, InfoIcon } from '@repo/ui/icon';
+import { Box } from '@repo/ui/box';
 
 export function ButtonWithIcon() {
   return (

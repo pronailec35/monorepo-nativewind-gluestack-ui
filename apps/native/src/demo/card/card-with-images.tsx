@@ -1,10 +1,10 @@
-import { Card } from '@gezit-native/ui/card';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Image } from '@gezit-native/ui/image';
-import { Link, LinkText } from '@gezit-native/ui/link';
-import { HStack } from '@gezit-native/ui/hstack';
-import { ArrowRightIcon, Icon } from '@gezit-native/ui/icon';
+import { Card } from '@repo/ui/card';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Image } from '@repo/ui/image';
+import { Link, LinkText } from '@repo/ui/link';
+import { HStack } from '@repo/ui/hstack';
+import { ArrowRightIcon, Icon } from '@repo/ui/icon';
 
 export function CardWithImage() {
   return (

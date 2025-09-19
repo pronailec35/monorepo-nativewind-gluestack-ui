@@ -1,7 +1,7 @@
-import { Divider } from '@gezit-native/ui/divider';
-import { VStack } from '@gezit-native/ui/vstack';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+import { Divider } from '@repo/ui/divider';
+import { VStack } from '@repo/ui/vstack';
+import { HStack } from '@repo/ui/hstack';
+import { Button, ButtonText } from '@repo/ui/button';
 
 export function DividerWithWithoutInset() {
   return (

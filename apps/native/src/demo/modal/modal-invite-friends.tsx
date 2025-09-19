@@ -6,14 +6,14 @@ import {
   ModalHeader,
   ModalCloseButton,
   ModalBody,
-} from '@gezit-native/ui/modal';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Icon, CloseIcon, CopyIcon } from '@gezit-native/ui/icon';
-import { Input, InputField } from '@gezit-native/ui/input';
-import { Pressable } from '@gezit-native/ui/pressable';
+} from '@repo/ui/modal';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { VStack } from '@repo/ui/vstack';
+import { Icon, CloseIcon, CopyIcon } from '@repo/ui/icon';
+import { Input, InputField } from '@repo/ui/input';
+import { Pressable } from '@repo/ui/pressable';
 
 export function ModalInviteFriends() {
   const [showModal, setShowModal] = React.useState(false);

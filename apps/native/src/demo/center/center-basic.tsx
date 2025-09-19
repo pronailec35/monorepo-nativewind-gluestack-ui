@@ -1,5 +1,5 @@
-import { Center } from '@gezit-native/ui/center';
-import { Text } from '@gezit-native/ui/text';
+import { Center } from '@repo/ui/center';
+import { Text } from '@repo/ui/text';
 
 export function CenterBasic() {
   return (

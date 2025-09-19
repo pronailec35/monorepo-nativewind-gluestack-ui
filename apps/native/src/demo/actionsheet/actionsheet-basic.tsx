@@ -1,6 +1,6 @@
 import React from 'react';
-import { ButtonText } from '@gezit-native/ui/button';
-import { Button } from '@gezit-native/ui/button';
+import { ButtonText } from '@repo/ui/button';
+import { Button } from '@repo/ui/button';
 import {
   Actionsheet,
   ActionsheetBackdrop,
@@ -9,7 +9,7 @@ import {
   ActionsheetDragIndicator,
   ActionsheetItem,
   ActionsheetItemText,
-} from '@gezit-native/ui/actionsheet';
+} from '@repo/ui/actionsheet';
 
 export function ActionsheetBasic() {
   const [showActionsheet, setShowActionsheet] = React.useState(false);

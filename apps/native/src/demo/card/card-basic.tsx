@@ -1,6 +1,6 @@
-import { Card } from '@gezit-native/ui/card';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
+import { Card } from '@repo/ui/card';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
 
 export function CardBasic() {
   return (

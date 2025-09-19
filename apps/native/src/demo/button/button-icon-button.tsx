@@ -1,5 +1,5 @@
-import { Button, ButtonIcon } from '@gezit-native/ui/button';
-import { EditIcon } from '@gezit-native/ui/icon';
+import { Button, ButtonIcon } from '@repo/ui/button';
+import { EditIcon } from '@repo/ui/icon';
 
 export function ButtonIconExample() {
   return (

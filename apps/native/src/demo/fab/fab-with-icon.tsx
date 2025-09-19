@@ -1,11 +1,11 @@
-import { Fab, FabIcon } from '@gezit-native/ui/fab';
-import { Box } from '@gezit-native/ui/box';
-import { VStack } from '@gezit-native/ui/vstack';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Avatar, AvatarImage } from '@gezit-native/ui/avatar';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { EditIcon } from '@gezit-native/ui/icon';
+import { Fab, FabIcon } from '@repo/ui/fab';
+import { Box } from '@repo/ui/box';
+import { VStack } from '@repo/ui/vstack';
+import { HStack } from '@repo/ui/hstack';
+import { Avatar, AvatarImage } from '@repo/ui/avatar';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { EditIcon } from '@repo/ui/icon';
 
 export function FabWithIcon() {
   const data = [

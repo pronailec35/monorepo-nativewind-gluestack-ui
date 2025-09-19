@@ -1,15 +1,15 @@
-import { Text } from '@gezit-native/ui/text';
-import { CircleIcon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Heading } from '@gezit-native/ui/heading';
+import { Text } from '@repo/ui/text';
+import { CircleIcon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
+import { Heading } from '@repo/ui/heading';
 import {
   Radio,
   RadioGroup,
   RadioIcon,
   RadioIndicator,
   RadioLabel,
-} from '@gezit-native/ui/radio';
-import { FormControl } from '@gezit-native/ui/form-control';
+} from '@repo/ui/radio';
+import { FormControl } from '@repo/ui/form-control';
 
 export function RadioFormControl() {
   return (

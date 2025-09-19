@@ -1,5 +1,5 @@
-import { Pressable } from '@gezit-native/ui/pressable';
-import { Text } from '@gezit-native/ui/text';
+import { Pressable } from '@repo/ui/pressable';
+import { Text } from '@repo/ui/text';
 
 export function PressableBasic() {
   return (

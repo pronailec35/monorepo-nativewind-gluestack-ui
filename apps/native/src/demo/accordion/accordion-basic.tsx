@@ -7,9 +7,9 @@ import {
   AccordionIcon,
   AccordionContent,
   AccordionContentText,
-} from '@gezit-native/ui/accordion';
-import { Divider } from '@gezit-native/ui/divider';
-import { ChevronUpIcon, ChevronDownIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/accordion';
+import { Divider } from '@repo/ui/divider';
+import { ChevronUpIcon, ChevronDownIcon } from '@repo/ui/icon';
 
 export function AccordionBasic() {
   return (

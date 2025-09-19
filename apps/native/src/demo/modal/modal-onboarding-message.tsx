@@ -4,11 +4,11 @@ import {
   ModalContent,
   ModalBody,
   ModalFooter,
-} from '@gezit-native/ui/modal';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Image } from '@gezit-native/ui/image';
+} from '@repo/ui/modal';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Image } from '@repo/ui/image';
 import React from 'react';
 
 export function ModalOnboardingMessage() {

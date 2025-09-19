@@ -1,5 +1,5 @@
-import { Progress, ProgressFilledTrack } from '@gezit-native/ui/progress';
-import { Center } from '@gezit-native/ui/center';
+import { Progress, ProgressFilledTrack } from '@repo/ui/progress';
+import { Center } from '@repo/ui/center';
 
 export function ProgressBasic() {
   return (

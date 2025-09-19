@@ -1,4 +1,4 @@
-import { Image } from '@gezit-native/ui/image';
+import { Image } from '@repo/ui/image';
 
 export function ImageExample2() {
   return (

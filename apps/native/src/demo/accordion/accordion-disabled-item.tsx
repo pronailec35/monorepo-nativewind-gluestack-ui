@@ -7,8 +7,8 @@ import {
   AccordionIcon,
   AccordionContent,
   AccordionContentText,
-} from '@gezit-native/ui/accordion';
-import { RemoveIcon, AddIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/accordion';
+import { RemoveIcon, AddIcon } from '@repo/ui/icon';
 
 export function AccordionDisabledItem() {
   return (

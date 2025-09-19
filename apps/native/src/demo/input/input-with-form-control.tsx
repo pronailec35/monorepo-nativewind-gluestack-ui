@@ -3,13 +3,13 @@ import {
   InputField,
   InputIcon,
   InputSlot,
-} from '@gezit-native/ui/input';
-import { FormControl } from '@gezit-native/ui/form-control';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { EyeIcon, EyeOffIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/input';
+import { FormControl } from '@repo/ui/form-control';
+import { VStack } from '@repo/ui/vstack';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Button, ButtonText } from '@repo/ui/button';
+import { EyeIcon, EyeOffIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function InputWithFormControl() {

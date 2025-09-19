@@ -1,5 +1,5 @@
-import { Icon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
+import { Icon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
 import {
   Camera,
   ChromeIcon,

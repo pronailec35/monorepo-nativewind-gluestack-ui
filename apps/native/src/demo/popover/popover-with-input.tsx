@@ -4,19 +4,19 @@ import {
   PopoverContent,
   PopoverHeader,
   PopoverBody,
-} from '@gezit-native/ui/popover';
-import { Button, ButtonText, ButtonIcon } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { HStack } from '@gezit-native/ui/hstack';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Input, InputField } from '@gezit-native/ui/input';
+} from '@repo/ui/popover';
+import { Button, ButtonText, ButtonIcon } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { HStack } from '@repo/ui/hstack';
+import { VStack } from '@repo/ui/vstack';
+import { Input, InputField } from '@repo/ui/input';
 import {
   Avatar,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
-import { ShareIcon, ChevronDownIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/avatar';
+import { ShareIcon, ChevronDownIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function PopoverWithInput() {

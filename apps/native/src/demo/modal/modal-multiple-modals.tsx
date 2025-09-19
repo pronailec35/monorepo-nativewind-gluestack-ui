@@ -5,14 +5,14 @@ import {
   ModalHeader,
   ModalBody,
   ModalFooter,
-} from '@gezit-native/ui/modal';
-import { Button, ButtonText, ButtonIcon } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Input, InputField } from '@gezit-native/ui/input';
-import { Link, LinkText } from '@gezit-native/ui/link';
-import { ArrowLeftIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/modal';
+import { Button, ButtonText, ButtonIcon } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { HStack } from '@repo/ui/hstack';
+import { Input, InputField } from '@repo/ui/input';
+import { Link, LinkText } from '@repo/ui/link';
+import { ArrowLeftIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function ModalMultipleModals() {

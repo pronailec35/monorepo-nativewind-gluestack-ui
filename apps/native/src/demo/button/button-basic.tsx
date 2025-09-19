@@ -1,4 +1,4 @@
-import { Button, ButtonText } from '@gezit-native/ui/button';
+import { Button, ButtonText } from '@repo/ui/button';
 
 export function ButtonBasic() {
   return (

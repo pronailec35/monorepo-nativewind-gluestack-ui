@@ -4,15 +4,15 @@ import {
   PopoverContent,
   PopoverBody,
   PopoverArrow,
-} from '@gezit-native/ui/popover';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/popover';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
 import {
   Avatar,
   AvatarGroup,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
+} from '@repo/ui/avatar';
 import React from 'react';
 
 export function PopoverWithAvatars() {

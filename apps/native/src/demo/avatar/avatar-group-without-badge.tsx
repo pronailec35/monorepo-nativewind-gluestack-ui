@@ -3,7 +3,7 @@ import {
   AvatarFallbackText,
   AvatarImage,
   AvatarGroup,
-} from '@gezit-native/ui/avatar';
+} from '@repo/ui/avatar';
 
 export function AvatarGroupWithoutBadge() {
   return (

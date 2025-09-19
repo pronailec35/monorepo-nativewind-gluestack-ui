@@ -3,10 +3,10 @@ import {
   MenuItem,
   MenuItemLabel,
   MenuSeparator,
-} from '@gezit-native/ui/menu';
-import { Button, ButtonIcon } from '@gezit-native/ui/button';
-import { MenuIcon } from '@gezit-native/ui/icon';
-import { Badge, BadgeText } from '@gezit-native/ui/badge';
+} from '@repo/ui/menu';
+import { Button, ButtonIcon } from '@repo/ui/button';
+import { MenuIcon } from '@repo/ui/icon';
+import { Badge, BadgeText } from '@repo/ui/badge';
 
 function Trigger({ ...triggerProps }: typeof Button) {
   return (

@@ -1,10 +1,10 @@
-import { Avatar } from '@gezit-native/ui/avatar';
-import { HStack } from '@gezit-native/ui/hstack';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Icon } from '@gezit-native/ui/icon';
+import { Avatar } from '@repo/ui/avatar';
+import { HStack } from '@repo/ui/hstack';
+import { VStack } from '@repo/ui/vstack';
+import { Icon } from '@repo/ui/icon';
 import { User } from 'lucide-react-native';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
 
 export function AvatarCustom() {
   return (

@@ -1,6 +1,6 @@
-import { Box } from '@gezit-native/ui/box';
-import { Fab, FabIcon, FabLabel } from '@gezit-native/ui/fab';
-import { AddIcon } from '@gezit-native/ui/icon';
+import { Box } from '@repo/ui/box';
+import { Fab, FabIcon, FabLabel } from '@repo/ui/fab';
+import { AddIcon } from '@repo/ui/icon';
 
 export function FabBasic() {
   return (

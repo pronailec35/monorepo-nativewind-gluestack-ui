@@ -1,6 +1,6 @@
-import { Link, LinkText } from '@gezit-native/ui/link';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Text } from '@gezit-native/ui/text';
+import { Link, LinkText } from '@repo/ui/link';
+import { HStack } from '@repo/ui/hstack';
+import { Text } from '@repo/ui/text';
 
 export function LinkDefault() {
   return (

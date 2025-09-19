@@ -5,10 +5,10 @@ import {
   AlertDialogFooter,
   AlertDialogBody,
   AlertDialogBackdrop,
-} from '@gezit-native/ui/alert-dialog';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/alert-dialog';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
+import { Heading } from '@repo/ui/heading';
 import React from 'react';
 
 export function AlertDialogBasic() {

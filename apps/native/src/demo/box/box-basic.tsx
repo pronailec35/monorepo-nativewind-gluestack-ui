@@ -1,5 +1,5 @@
-import { Box } from '@gezit-native/ui/box';
-import { Text } from '@gezit-native/ui/text';
+import { Box } from '@repo/ui/box';
+import { Text } from '@repo/ui/text';
 
 export function BoxBasic() {
   return (

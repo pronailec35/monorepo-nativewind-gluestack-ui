@@ -4,8 +4,8 @@ import {
   RadioIndicator,
   RadioIcon,
   RadioLabel,
-} from '@gezit-native/ui/radio';
-import { CircleIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/radio';
+import { CircleIcon } from '@repo/ui/icon';
 
 export function RadioBasic() {
   return (

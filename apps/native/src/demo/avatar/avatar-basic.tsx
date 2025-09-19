@@ -3,7 +3,7 @@ import {
   AvatarFallbackText,
   AvatarImage,
   AvatarBadge,
-} from '@gezit-native/ui/avatar';
+} from '@repo/ui/avatar';
 
 export function AvatarBasic() {
   return (

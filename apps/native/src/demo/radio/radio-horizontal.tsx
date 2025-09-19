@@ -1,12 +1,12 @@
-import { HStack } from '@gezit-native/ui/hstack';
+import { HStack } from '@repo/ui/hstack';
 import {
   Radio,
   RadioGroup,
   RadioIcon,
   RadioIndicator,
   RadioLabel,
-} from '@gezit-native/ui/radio';
-import { CircleIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/radio';
+import { CircleIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function RadioHorizontal() {

@@ -4,9 +4,9 @@ import {
   CheckboxIndicator,
   CheckboxIcon,
   CheckboxLabel,
-} from '@gezit-native/ui/checkbox';
-import { VStack } from '@gezit-native/ui/vstack';
-import { CheckIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/checkbox';
+import { VStack } from '@repo/ui/vstack';
+import { CheckIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function CheckboxUncontrolled() {

@@ -1,6 +1,6 @@
-import { FormControl } from '@gezit-native/ui/form-control';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { HStack } from '@gezit-native/ui/hstack';
+import { FormControl } from '@repo/ui/form-control';
+import { Button, ButtonText } from '@repo/ui/button';
+import { HStack } from '@repo/ui/hstack';
 
 export function FormControlWithFormActions() {
   return (

@@ -5,12 +5,12 @@ import {
   ModalHeader,
   ModalBody,
   ModalFooter,
-} from '@gezit-native/ui/modal';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { Icon, TrashIcon } from '@gezit-native/ui/icon';
-import { Box } from '@gezit-native/ui/box';
+} from '@repo/ui/modal';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { Icon, TrashIcon } from '@repo/ui/icon';
+import { Box } from '@repo/ui/box';
 import React from 'react';
 
 export function ModalDeletePost() {

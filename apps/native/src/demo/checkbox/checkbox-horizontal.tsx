@@ -4,10 +4,10 @@ import {
   CheckboxLabel,
   CheckboxIcon,
   CheckboxGroup,
-} from '@gezit-native/ui/checkbox';
-import { CheckIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/checkbox';
+import { CheckIcon } from '@repo/ui/icon';
 import React from 'react';
-import { HStack } from '@gezit-native/ui/hstack';
+import { HStack } from '@repo/ui/hstack';
 
 export function CheckboxHorizontal() {
   const [values, setValues] = React.useState(['Illustration']);

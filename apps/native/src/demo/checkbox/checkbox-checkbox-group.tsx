@@ -1,13 +1,13 @@
-import { Center } from '@gezit-native/ui/center';
+import { Center } from '@repo/ui/center';
 import {
   Checkbox,
   CheckboxIndicator,
   CheckboxLabel,
   CheckboxIcon,
   CheckboxGroup,
-} from '@gezit-native/ui/checkbox';
-import { CheckIcon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
+} from '@repo/ui/checkbox';
+import { CheckIcon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
 import React from 'react';
 
 export function CheckboxGroupExample() {

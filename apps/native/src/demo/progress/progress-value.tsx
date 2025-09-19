@@ -1,6 +1,6 @@
-import { Progress, ProgressFilledTrack } from '@gezit-native/ui/progress';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Text } from '@gezit-native/ui/text';
+import { Progress, ProgressFilledTrack } from '@repo/ui/progress';
+import { VStack } from '@repo/ui/vstack';
+import { Text } from '@repo/ui/text';
 
 export function ProgressValue() {
   return (

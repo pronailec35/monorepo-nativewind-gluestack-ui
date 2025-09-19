@@ -1,16 +1,16 @@
-import { Alert, AlertIcon, AlertText } from '@gezit-native/ui/alert';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+import { Alert, AlertIcon, AlertText } from '@repo/ui/alert';
+import { Button, ButtonText } from '@repo/ui/button';
 import {
   Input,
   InputField,
   InputSlot,
   InputIcon,
-} from '@gezit-native/ui/input';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Heading } from '@gezit-native/ui/heading';
+} from '@repo/ui/input';
+import { VStack } from '@repo/ui/vstack';
+import { Heading } from '@repo/ui/heading';
 import { EyeIcon, EyeOffIcon, InfoIcon } from 'lucide-react-native';
 import React from 'react';
-import { Text } from '@gezit-native/ui/text';
+import { Text } from '@repo/ui/text';
 
 export function AlertConfirmPasswordModal() {
   const [showPassword, setShowPassword] = React.useState(false);

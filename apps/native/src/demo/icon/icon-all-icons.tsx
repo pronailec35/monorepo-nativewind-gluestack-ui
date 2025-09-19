@@ -55,9 +55,9 @@ import {
   ThreeDotsIcon,
   TrashIcon,
   UnlockIcon,
-} from '@gezit-native/ui/icon';
-import { Center } from '@gezit-native/ui/center';
-import { HStack } from '@gezit-native/ui/hstack';
+} from '@repo/ui/icon';
+import { Center } from '@repo/ui/center';
+import { HStack } from '@repo/ui/hstack';
 
 export function IconAllIcons() {
   return (

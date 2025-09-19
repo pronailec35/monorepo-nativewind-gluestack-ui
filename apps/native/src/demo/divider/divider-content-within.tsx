@@ -1,8 +1,8 @@
-import { Divider } from '@gezit-native/ui/divider';
-import { Box } from '@gezit-native/ui/box';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Text } from '@gezit-native/ui/text';
-import { Heading } from '@gezit-native/ui/heading';
+import { Divider } from '@repo/ui/divider';
+import { Box } from '@repo/ui/box';
+import { HStack } from '@repo/ui/hstack';
+import { Text } from '@repo/ui/text';
+import { Heading } from '@repo/ui/heading';
 
 export function DividerContentWithin() {
   return (

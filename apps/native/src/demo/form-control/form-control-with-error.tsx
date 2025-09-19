@@ -5,16 +5,16 @@ import {
   FormControlError,
   FormControlErrorIcon,
   FormControlErrorText,
-} from '@gezit-native/ui/form-control';
+} from '@repo/ui/form-control';
 import {
   Radio,
   RadioGroup,
   RadioIndicator,
   RadioLabel,
   RadioIcon,
-} from '@gezit-native/ui/radio';
-import { VStack } from '@gezit-native/ui/vstack';
-import { AlertCircleIcon, CircleIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/radio';
+import { VStack } from '@repo/ui/vstack';
+import { AlertCircleIcon, CircleIcon } from '@repo/ui/icon';
 
 export function FormControlWithError() {
   return (

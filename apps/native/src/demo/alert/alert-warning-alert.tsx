@@ -1,6 +1,6 @@
-import { Alert, AlertIcon, AlertText } from '@gezit-native/ui/alert';
+import { Alert, AlertIcon, AlertText } from '@repo/ui/alert';
 import { Bomb } from 'lucide-react-native';
-import { Text } from '@gezit-native/ui/text';
+import { Text } from '@repo/ui/text';
 
 export function AlertWarning() {
   return (

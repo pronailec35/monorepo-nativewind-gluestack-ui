@@ -1,5 +1,5 @@
-import { Grid, GridItem } from '@gezit-native/ui/grid';
-import { Text } from '@gezit-native/ui/text';
+import { Grid, GridItem } from '@repo/ui/grid';
+import { Text } from '@repo/ui/text';
 
 export function GridGapBetweenItems() {
   return (

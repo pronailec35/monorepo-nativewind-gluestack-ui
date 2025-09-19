@@ -3,8 +3,8 @@ import {
   CheckboxIndicator,
   CheckboxLabel,
   CheckboxIcon,
-} from '@gezit-native/ui/checkbox';
-import { CheckIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/checkbox';
+import { CheckIcon } from '@repo/ui/icon';
 
 export function CheckboxBasic() {
   return (

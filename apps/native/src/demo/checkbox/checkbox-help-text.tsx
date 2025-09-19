@@ -4,12 +4,12 @@ import {
   CheckboxLabel,
   CheckboxIcon,
   CheckboxGroup,
-} from '@gezit-native/ui/checkbox';
-import { CheckIcon } from '@gezit-native/ui/icon';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/checkbox';
+import { CheckIcon } from '@repo/ui/icon';
+import { VStack } from '@repo/ui/vstack';
+import { Text } from '@repo/ui/text';
 import React from 'react';
-import { Box } from '@gezit-native/ui/box';
+import { Box } from '@repo/ui/box';
 
 export function CheckboxHelpText() {
   const [values, setValues] = React.useState(['Design']);

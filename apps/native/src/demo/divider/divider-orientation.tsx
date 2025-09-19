@@ -1,9 +1,9 @@
-import { Divider } from '@gezit-native/ui/divider';
-import { VStack } from '@gezit-native/ui/vstack';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Text } from '@gezit-native/ui/text';
-import { Box } from '@gezit-native/ui/box';
-import { Heading } from '@gezit-native/ui/heading';
+import { Divider } from '@repo/ui/divider';
+import { VStack } from '@repo/ui/vstack';
+import { HStack } from '@repo/ui/hstack';
+import { Text } from '@repo/ui/text';
+import { Box } from '@repo/ui/box';
+import { Heading } from '@repo/ui/heading';
 
 export function DividerOrientation() {
   return (

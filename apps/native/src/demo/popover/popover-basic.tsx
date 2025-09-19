@@ -4,9 +4,9 @@ import {
   PopoverArrow,
   PopoverBody,
   PopoverContent,
-} from '@gezit-native/ui/popover';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/popover';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
 import React from 'react';
 
 export function PopoverBasic() {

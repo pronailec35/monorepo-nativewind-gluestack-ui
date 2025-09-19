@@ -4,25 +4,25 @@ import {
   ActionsheetContent,
   ActionsheetDragIndicatorWrapper,
   ActionsheetDragIndicator,
-} from '@gezit-native/ui/actionsheet';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { HStack } from '@gezit-native/ui/hstack';
-import { VStack } from '@gezit-native/ui/vstack';
+} from '@repo/ui/actionsheet';
+import { Button, ButtonText } from '@repo/ui/button';
+import { HStack } from '@repo/ui/hstack';
+import { VStack } from '@repo/ui/vstack';
 import { Box, CreditCardIcon } from 'lucide-react-native';
 import React from 'react';
 import {
   FormControl,
   FormControlLabel,
   FormControlLabelText,
-} from '@gezit-native/ui/form-control';
+} from '@repo/ui/form-control';
 import {
   Input,
   InputSlot,
   InputIcon,
   InputField,
-} from '@gezit-native/ui/input';
-import { Text } from '@gezit-native/ui/text';
-import { Image } from '@gezit-native/ui/image';
+} from '@repo/ui/input';
+import { Text } from '@repo/ui/text';
+import { Image } from '@repo/ui/image';
 
 export function ActionsheetWithSnappoints() {
   const [showActionsheet, setShowActionsheet] = React.useState(false);

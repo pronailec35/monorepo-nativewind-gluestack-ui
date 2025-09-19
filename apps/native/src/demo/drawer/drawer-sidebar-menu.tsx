@@ -5,18 +5,18 @@ import {
   DrawerHeader,
   DrawerBody,
   DrawerFooter,
-} from '@gezit-native/ui/drawer';
-import { Button, ButtonText, ButtonIcon } from '@gezit-native/ui/button';
-import { Text } from '@gezit-native/ui/text';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Pressable } from '@gezit-native/ui/pressable';
-import { Divider } from '@gezit-native/ui/divider';
+} from '@repo/ui/drawer';
+import { Button, ButtonText, ButtonIcon } from '@repo/ui/button';
+import { Text } from '@repo/ui/text';
+import { VStack } from '@repo/ui/vstack';
+import { Pressable } from '@repo/ui/pressable';
+import { Divider } from '@repo/ui/divider';
 import {
   Avatar,
   AvatarFallbackText,
   AvatarImage,
-} from '@gezit-native/ui/avatar';
-import { Icon } from '@gezit-native/ui/icon';
+} from '@repo/ui/avatar';
+import { Icon } from '@repo/ui/icon';
 import { User, Home, ShoppingCart, Wallet, LogOut } from 'lucide-react-native';
 import React from 'react';
 

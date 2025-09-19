@@ -1,12 +1,12 @@
-import { Menu, MenuItem, MenuItemLabel } from '@gezit-native/ui/menu';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+import { Menu, MenuItem, MenuItemLabel } from '@repo/ui/menu';
+import { Button, ButtonText } from '@repo/ui/button';
 import {
   Icon,
   AddIcon,
   GlobeIcon,
   PlayIcon,
   SettingsIcon,
-} from '@gezit-native/ui/icon';
+} from '@repo/ui/icon';
 
 function Trigger({ ...triggerProps }: typeof Button) {
   return (

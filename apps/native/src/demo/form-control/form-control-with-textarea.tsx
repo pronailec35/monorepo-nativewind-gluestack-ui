@@ -4,8 +4,8 @@ import {
   FormControlLabelText,
   FormControlHelper,
   FormControlHelperText,
-} from '@gezit-native/ui/form-control';
-import { Textarea, TextareaInput } from '@gezit-native/ui/textarea';
+} from '@repo/ui/form-control';
+import { Textarea, TextareaInput } from '@repo/ui/textarea';
 
 export function FormControlWithTextarea() {
   return (

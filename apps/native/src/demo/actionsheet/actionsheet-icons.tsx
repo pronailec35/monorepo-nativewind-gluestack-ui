@@ -7,8 +7,8 @@ import {
   ActionsheetItem,
   ActionsheetIcon,
   ActionsheetItemText,
-} from '@gezit-native/ui/actionsheet';
-import { Button, ButtonText } from '@gezit-native/ui/button';
+} from '@repo/ui/actionsheet';
+import { Button, ButtonText } from '@repo/ui/button';
 import {
   EditIcon,
   EyeOffIcon,

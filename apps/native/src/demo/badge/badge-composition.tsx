@@ -1,7 +1,7 @@
-import { Badge, BadgeText } from '@gezit-native/ui/badge';
-import { Box } from '@gezit-native/ui/box';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { VStack } from '@gezit-native/ui/vstack';
+import { Badge, BadgeText } from '@repo/ui/badge';
+import { Box } from '@repo/ui/box';
+import { Button, ButtonText } from '@repo/ui/button';
+import { VStack } from '@repo/ui/vstack';
 
 export function BadgeComposition() {
   return (

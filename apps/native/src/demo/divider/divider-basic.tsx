@@ -1,6 +1,6 @@
-import { Center } from '@gezit-native/ui/center';
-import { Text } from '@gezit-native/ui/text';
-import { Divider } from '@gezit-native/ui/divider';
+import { Center } from '@repo/ui/center';
+import { Text } from '@repo/ui/text';
+import { Divider } from '@repo/ui/divider';
 
 export function DividerBasic() {
   return (

@@ -1,10 +1,10 @@
-import { Button, ButtonIcon, ButtonText } from '@gezit-native/ui/button';
-import { Input, InputField } from '@gezit-native/ui/input';
-import { VStack } from '@gezit-native/ui/vstack';
+import { Button, ButtonIcon, ButtonText } from '@repo/ui/button';
+import { Input, InputField } from '@repo/ui/input';
+import { VStack } from '@repo/ui/vstack';
 import { Box, ArrowLeftIcon } from 'lucide-react-native';
-import { Heading } from '@gezit-native/ui/heading';
-import { Center } from '@gezit-native/ui/center';
-import { Text } from '@gezit-native/ui/text';
+import { Heading } from '@repo/ui/heading';
+import { Center } from '@repo/ui/center';
+import { Text } from '@repo/ui/text';
 
 export function ButtonFullWidth() {
   return (

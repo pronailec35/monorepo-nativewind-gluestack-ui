@@ -3,13 +3,13 @@ import {
   PopoverBackdrop,
   PopoverContent,
   PopoverBody,
-} from '@gezit-native/ui/popover';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Input, InputField } from '@gezit-native/ui/input';
-import { Image } from '@gezit-native/ui/image';
+} from '@repo/ui/popover';
+import { Button, ButtonText } from '@repo/ui/button';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
+import { VStack } from '@repo/ui/vstack';
+import { Input, InputField } from '@repo/ui/input';
+import { Image } from '@repo/ui/image';
 import React from 'react';
 
 export function PopoverWithImage() {

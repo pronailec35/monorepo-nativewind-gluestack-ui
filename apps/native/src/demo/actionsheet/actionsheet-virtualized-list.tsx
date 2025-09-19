@@ -7,10 +7,10 @@ import {
   ActionsheetDragIndicatorWrapper,
   ActionsheetDragIndicator,
   ActionsheetVirtualizedList,
-} from '@gezit-native/ui/actionsheet';
-import { ButtonText } from '@gezit-native/ui/button';
+} from '@repo/ui/actionsheet';
+import { ButtonText } from '@repo/ui/button';
 import React from 'react';
-import { Button } from '@gezit-native/ui/button';
+import { Button } from '@repo/ui/button';
 
 export function ActionsheetViertualizedListExample() {
   const [showActionsheet, setShowActionsheet] = React.useState(false);

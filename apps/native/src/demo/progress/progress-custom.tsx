@@ -1,7 +1,7 @@
-import { Progress, ProgressFilledTrack } from '@gezit-native/ui/progress';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Heading } from '@gezit-native/ui/heading';
-import { Text } from '@gezit-native/ui/text';
+import { Progress, ProgressFilledTrack } from '@repo/ui/progress';
+import { VStack } from '@repo/ui/vstack';
+import { Heading } from '@repo/ui/heading';
+import { Text } from '@repo/ui/text';
 
 export function ProgressCustom() {
   return (

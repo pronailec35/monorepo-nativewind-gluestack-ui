@@ -1,4 +1,4 @@
-import { Input, InputField } from '@gezit-native/ui/input';
+import { Input, InputField } from '@repo/ui/input';
 
 export function InputBasic() {
   return (

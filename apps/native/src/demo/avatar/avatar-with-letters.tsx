@@ -2,11 +2,11 @@ import {
   Avatar,
   AvatarBadge,
   AvatarFallbackText,
-} from '@gezit-native/ui/avatar';
-import { Heading } from '@gezit-native/ui/heading';
-import { HStack } from '@gezit-native/ui/hstack';
-import { VStack } from '@gezit-native/ui/vstack';
-import { Text } from '@gezit-native/ui/text';
+} from '@repo/ui/avatar';
+import { Heading } from '@repo/ui/heading';
+import { HStack } from '@repo/ui/hstack';
+import { VStack } from '@repo/ui/vstack';
+import { Text } from '@repo/ui/text';
 
 export function AvatarWithLetters() {
   return (

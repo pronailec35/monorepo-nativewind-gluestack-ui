@@ -7,11 +7,11 @@ import {
   FormControlHelper,
   FormControlHelperText,
   FormControlLabelText,
-} from '@gezit-native/ui/form-control';
-import { AlertCircleIcon } from '@gezit-native/ui/icon';
-import { Input, InputField } from '@gezit-native/ui/input';
-import { Button, ButtonText } from '@gezit-native/ui/button';
-import { VStack } from '@gezit-native/ui/vstack';
+} from '@repo/ui/form-control';
+import { AlertCircleIcon } from '@repo/ui/icon';
+import { Input, InputField } from '@repo/ui/input';
+import { Button, ButtonText } from '@repo/ui/button';
+import { VStack } from '@repo/ui/vstack';
 import React from 'react';
 
 export function FormControlBasic() {

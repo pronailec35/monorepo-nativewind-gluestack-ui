@@ -3,8 +3,8 @@ import {
   InputField,
   InputIcon,
   InputSlot,
-} from '@gezit-native/ui/input';
-import { SearchIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/input';
+import { SearchIcon } from '@repo/ui/icon';
 
 export function InputWithIcons() {
   return (

@@ -4,9 +4,9 @@ import {
   RadioIcon,
   RadioIndicator,
   RadioLabel,
-} from '@gezit-native/ui/radio';
-import { VStack } from '@gezit-native/ui/vstack';
-import { CircleIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/radio';
+import { VStack } from '@repo/ui/vstack';
+import { CircleIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function RadioGroupExample() {

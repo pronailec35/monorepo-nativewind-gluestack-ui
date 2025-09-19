@@ -1,5 +1,5 @@
-import { HStack } from '@gezit-native/ui/hstack';
-import { Box } from '@gezit-native/ui/box';
+import { HStack } from '@repo/ui/hstack';
+import { Box } from '@repo/ui/box';
 
 export function HStackReversed() {
   return (

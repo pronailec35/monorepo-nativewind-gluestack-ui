@@ -1,7 +1,7 @@
-import { Link, LinkText } from '@gezit-native/ui/link';
-import { HStack } from '@gezit-native/ui/hstack';
-import { Text } from '@gezit-native/ui/text';
-import { Icon } from '@gezit-native/ui/icon';
+import { Link, LinkText } from '@repo/ui/link';
+import { HStack } from '@repo/ui/hstack';
+import { Text } from '@repo/ui/text';
+import { Icon } from '@repo/ui/icon';
 import { ArrowUpRight } from 'lucide-react-native';
 
 export function LinkWithIcon() {

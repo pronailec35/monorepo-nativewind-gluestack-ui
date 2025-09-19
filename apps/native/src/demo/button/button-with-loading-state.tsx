@@ -1,4 +1,4 @@
-import { Button, ButtonSpinner, ButtonText } from '@gezit-native/ui/button';
+import { Button, ButtonSpinner, ButtonText } from '@repo/ui/button';
 
 export function ButtonWithLoadingState() {
   return (

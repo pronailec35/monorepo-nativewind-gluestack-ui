@@ -4,16 +4,16 @@ import {
   FormControlLabelText,
   FormControlHelper,
   FormControlHelperText,
-} from '@gezit-native/ui/form-control';
+} from '@repo/ui/form-control';
 import {
   Radio,
   RadioGroup,
   RadioIndicator,
   RadioLabel,
   RadioIcon,
-} from '@gezit-native/ui/radio';
-import { VStack } from '@gezit-native/ui/vstack';
-import { CircleIcon } from '@gezit-native/ui/icon';
+} from '@repo/ui/radio';
+import { VStack } from '@repo/ui/vstack';
+import { CircleIcon } from '@repo/ui/icon';
 import React from 'react';
 
 export function FormControlWithRadio() {
