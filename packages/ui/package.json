@@ -1,0 +1,53 @@
+{
+  "name": "@repo/ui",
+  "version": "1.0.0",
+  "exports": {
+    "./*": {
+      "types": "./dist/components/*/index.d.mts",
+      "import": "./dist/components/*/index.mjs",
+      "require": "./dist/components/*/index.mjs"
+    },
+     "./blocks/*": {
+      "types": "./dist/blocks/*/index.d.mts",
+      "import": "./dist/blocks/*/index.mjs",
+      "require": "./dist/blocks/*/index.mjs"
+    }
+  },
+  "scripts": {
+    "clean": "rm -rf dist node_modules",
+    "build": "rm -rf dist && tsdown",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0",
+  "peerDependencies": {
+    "@expo/html-elements": ">=0.13",
+    "@gorhom/bottom-sheet": ">=5",
+    "nativewind": ">= 4.1.23",
+    "react": "*",
+    "react-dom": "*",
+    "react-native": "^*",
+    "react-native-reanimated": ">=3",
+    "tailwind-variants": "*",
+    "tailwindcss": "*",
+    "react-native-svg": ">=15.12"
+  },
+  "devDependencies": {
+    "@expo/html-elements": "^0.13.7",
+    "@gorhom/bottom-sheet": "^5.2.6",
+    "@types/node": "^24.5.2",
+    "react-native-reanimated": "3.19.0",
+    "tsdown": "^0.15.2",
+    "typescript": "^5.5.4",
+    "tailwindcss": "^3.4.0",
+    "tailwind-variants": "0.1.20",
+    "react-native-svg": "15.12.0"
+  },
+  "dependencies": {
+    "@gluestack-ui/core": "3.0.10",
+    "@gluestack-ui/nativewind-utils": "1.0.28",
+    "@gluestack-ui/utils": "3.0.7",
+    "@legendapp/motion": "^2.4.0",
+    "lucide-react-native": "^0.544.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "gluestack-ui-nativewind-monorepo",
+  "version": "1.0.0",
+  "author": "Bobby Echo Prasetyo (bobbyechop@gmail.com)",
+  "keywords": [
+    "monorepo",
+    "nativewind",
+    "react-native",
+    "gluestack-ui",
+    "react",
+    "library",
+    "tailwind"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobbyecho/monorepo-nativewind-gluestack-ui.git"
+  },
+  "description": "Starter kit for gluestack-ui with nativewind using monorepo",
+  "scripts": {
+    "clean": "turbo clean && rm -rf node_modules",
+    "build": "turbo build",
+    "example:android": "pnpm --filter=native android",
+    "example:web": "pnpm --filter=native web",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0",
+  "devDependencies": {
+    "turbo": "^2.5.6"
+  },
+  "resolutions": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
